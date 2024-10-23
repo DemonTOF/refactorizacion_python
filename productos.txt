@@ -1,4 +1,3 @@
+chocolate,20000,2
 cafe,30000,1
-leche,5000,5
 azucar,6000,1
-pan,8000,2
